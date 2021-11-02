@@ -27,6 +27,7 @@ public class RechteckigeGegenstaende extends GrafischeGegenstaende {
         this.gegenstandErstellen();
     }
 
+
     /**
      * Der Gegenstand wird abhängig von der Höhe und Breite des Objektes rechteckig aufgebaut.
      */
